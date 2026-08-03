@@ -27,5 +27,9 @@
 
 ### 🚀 Featured Projects
 
+#### Sessn
+**![Aurex](sessn.svg)**
+#### Bluum
+**![Aurex](bluum.svg)**
 #### Aurex
 **[![Aurex](aurex.svg)](https://github.com/orbiter404/aurex)**
